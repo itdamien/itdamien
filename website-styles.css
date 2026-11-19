@@ -1,0 +1,15 @@
+.technical-strengths{background:#07111f;color:#e7eef9;padding:clamp(30px,5vw,75px) 24px;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+.technical-strengths__head{display:flex;align-items:end;justify-content:space-between;gap:22px;margin-bottom:40px}
+.technical-strengths__head h2{font-size:clamp(36px,5vw,72px);line-height:1.06;letter-spacing:-.055em;margin:0;font-weight:800}
+.technical-strengths__head p{color:#96b9ed;font-size:clamp(14px,1.4vw,20px);margin:0 0 8px}
+.technical-strengths__grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:36px 40px}
+.technical-strengths__label{display:flex;gap:14px;align-items:center;font-size:17px;margin-bottom:12px}
+.technical-strengths__label span{font-size:21px}
+.technical-strengths__track{height:30px;border-radius:999px;background:#34445d;overflow:hidden}
+.technical-strengths__fill{height:100%;width:var(--level);background:linear-gradient(90deg,#fa4c05,#ff7621);border-radius:999px;display:flex;align-items:center;justify-content:flex-end;padding-right:14px;box-sizing:border-box;animation:skills-fill 1.2s ease-out both}
+.technical-strengths__fill span{font-size:14px;font-weight:800;color:white}
+.technical-strengths__note{margin:32px 0 0;color:#9bb0c8;font-size:12px}
+@keyframes skills-fill{from{width:0}to{width:var(--level)}}
+@media(max-width:900px){.technical-strengths__grid{grid-template-columns:repeat(2,minmax(0,1fr))}.technical-strengths__head{align-items:start;flex-direction:column}}
+@media(max-width:560px){.technical-strengths__grid{grid-template-columns:1fr;gap:24px}.technical-strengths{padding:36px 18px}}
+@media(prefers-reduced-motion:reduce){.technical-strengths__fill{animation:none}}
