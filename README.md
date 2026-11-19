@@ -25,7 +25,15 @@ const NTWALI Damien = {
 };
 ```
 
-### 🧰 Tech toolkit
+### 🧰 Tech toolkit  
+## 💻 Technical Strengths
+
+<div align="center">
+
+![Technical Strengths](./technical-strengths.svg)
+
+</div>
+
 
 <div align="center">
 
