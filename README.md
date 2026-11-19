@@ -16,11 +16,11 @@
 ### `> whoami`
 
 ```javascript
-const ismael = {
-  username: 'Leuben',
+const NTWALI Damien = {
+  username: 'Damien',
   location: 'Rwanda 🇷🇼',
   focus: ['Full-stack web apps', 'Practical software solutions'],
-  learning: ['React', 'PHP', 'Networking', 'Software engineering'],
+  learning: ['React', 'PHP', 'Networking', 'Software engineering', 'Python', 'ML/AI', 'C/C++', 'IOT', 'LINUX', 'DATA'],
   motto: 'Build, learn, improve, repeat.'
 };
 ```
