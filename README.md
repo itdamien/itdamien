@@ -4,8 +4,8 @@
 
 ### ⚡ Full-Stack Developer • IT Student • Builder from Rwanda 🇷🇼
 
-[![Website](https://img.shields.io/badge/Portfolio-Visit%20Website-00e5ff?style=for-the-badge&labelColor=07111e)](https://Leuben.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Leuben-9baeff?style=for-the-badge&logo=github&labelColor=07111e)](https://github.com/Leuben)
+[![Website](https://img.shields.io/badge/Portfolio-Visit%20Website-00e5ff?style=for-the-badge&labelColor=07111e)]([https://Leuben.github.io](https://ntwali-damie.beecypher250.workers.dev/))
+[![GitHub](https://img.shields.io/badge/GitHub-Leuben-9baeff?style=for-the-badge&logo=github&labelColor=07111e)](https://github.com/itdamien)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+working+software.;React+%2B+PHP+%2B+MariaDB.;Always+learning.+Always+building.)
 
